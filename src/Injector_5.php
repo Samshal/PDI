@@ -8,7 +8,7 @@
  * @author Samuel Adeshina Shalom [samueladeshina73@gmail.com | http://samshal.github.io]
  * @version 1.0
  * @since 17th Oct 2015
- * @license []
+ * @license GNU GPL [http://www.opensource.org/licenses/gpl-license.html]
  *        
  */
 	Namespace PDI;
