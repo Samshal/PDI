@@ -1,0 +1,6 @@
+{
+	"autoload":
+	{
+		"classmap": ["Autoloader.php", "org\/AbstractController.php", "org\/NoNamespaceClass.php", "org\/example\/controllers\/HomeController.php", "org\/example\/libraries\/DatabaseLibrary.php", "orgtests\/example\/controllers\/HomeControllerTest.php", "orgtests\/example\/libraries\/DatabaseLibraryTest.php"]
+	}
+}
