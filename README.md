@@ -1,0 +1,2 @@
+# PDI
+PHP Dependency Injector, A DI Container for PHP. I know, there's Pimple and so many other **great** DI Containers already, why this one.  PDI isn't just a DI Container. It is a *COMPLETE* Dpendency Injection Container.  With PDI, you can completely abstract your program logic from their dependencies. Yes, completely means you don't have to include these dependencies in an array or some file. It means, you just use them without worrying about where they come from or how they serve you.
